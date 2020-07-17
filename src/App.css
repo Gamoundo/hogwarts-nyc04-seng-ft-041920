@@ -138,3 +138,10 @@ ul {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.info-display {
+  display: block
+}
+.info-disabled {
+  display: none;
+}
